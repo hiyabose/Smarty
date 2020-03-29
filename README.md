@@ -1,6 +1,10 @@
 # Smarty
-A GUI calculator using tkinter, python
 ![](smart.JPG)
+
+
+A GUI calculator using tkinter, python
+
+
 
 
 
